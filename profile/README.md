@@ -1,6 +1,6 @@
 # Agent Voice Response (AVR)
 
-The **Agent Voice Response (AVR)** is an advanced IVR solution that integrates with AI, providing a voicebot interface through Asterisk's AudioSocket application. This architecture allows for the replacement of traditional IVR systems with AI-powered conversational agents.
+The **Agent Voice Response (AVR)** [agentvoiceresponse.com](https://www.agentvoiceresponse.com/) is an advanced IVR solution that integrates with AI, providing a voicebot interface through Asterisk's AudioSocket application. This architecture allows for the replacement of traditional IVR systems with AI-powered conversational agents.
 
 ## Overview
 
@@ -47,7 +47,7 @@ For a list of available integrations, check [Agent Voice Response Integrations](
 ## Usage
 
 ### Free Version
-In the free version, each call is limited to **1 minute** of interaction. For extended usage, please contact us to set up your wallet.
+In the free version, each call is limited to **1 minute** of interaction. For extended usage, please contact us at [info@agentvoiceresponse.com](mailto:info@agentvoiceresponse.com) to set up your wallet.
 
 ### Production Use
 To use AVR Core in production, contact us at [info@agentvoiceresponse.com](mailto:info@agentvoiceresponse.com). We will provide you with a `WALLET_ID`, allowing you to manage credits and usage.
