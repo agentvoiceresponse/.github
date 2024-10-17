@@ -4,11 +4,11 @@ The **Agent Voice Response (AVR)** [agentvoiceresponse.com](https://www.agentvoi
 
 ## Overview
 
-AVR Core manages real-time voice communication between customers and a VoIP PBX system (like Asterisk) and interacts with various AI services:
+AVR Core manages real-time voice communication between customers and a Asterisk AudioSocket application and interacts with various AI services:
 
-1. **ASR (Automatic Speech Recognition)**: Transcribes the incoming audio stream from the customer into text.
-2. **LLM (Large Language Model)**: Interprets the text and generates an appropriate response.
-3. **TTS (Text-to-Speech)**: Converts the generated text response back into speech, which is then played to the customer.
+1. **ASR (Automatic Speech Recognition)**: Transcribes the incoming audio stream from the customer into text (Google Speech to Text)
+2. **LLM (Large Language Model)**: Interprets the text and generates an appropriate response. (OpenAI / Typebot)
+3. **TTS (Text-to-Speech)**: Converts the generated text response back into speech, which is then played to the customer. (Google Text to Speech)
 
 AVR Core is designed to be flexible, allowing users to integrate any ASR, LLM, and TTS services by interacting via HTTP API Streams. This modularity allows you to develop your own middleware between AVR Core and the services of your choice.
 
