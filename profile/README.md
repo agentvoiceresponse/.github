@@ -19,6 +19,8 @@ AVR Core is designed to be flexible, allowing users to integrate any ASR, LLM, a
 - The LLM generates a response, which is sent to a TTS service for voice synthesis (e.g., `TTS_URL=http://localhost:6003/text-to-speech-stream`).
 - The synthesized voice is played back to the customer via Asterisk.
 
+ <video loop src="./architecture.mp4">architecture</video> 
+
 ## Features
 - **Plug-and-play architecture**: Easily swap out different ASR, LLM, and TTS services.
 - **Real-time voice-to-text and text-to-voice streaming**: Handles customer interactions seamlessly via HTTP API streams.
