@@ -38,7 +38,7 @@ For a list of available integrations, check [Agent Voice Response Integrations](
      - `ASR_URL`: URL of the ASR service (e.g., Google Cloud Speech-to-Text).
      - `LLM_URL`: URL of the LLM service (e.g., OpenAI or Typebot).
      - `TTS_URL`: URL of the TTS service (e.g., Google Cloud Text-to-Speech).
-     - `WALLET_ID`: Your wallet ID for production use (1 credit = 1 EUR = 100 minutes of usage).
+     - `WALLET_ID`: Your wallet ID for production use
 
 3. **Run Docker Compose**:
    - Navigate to the project directory and run:
