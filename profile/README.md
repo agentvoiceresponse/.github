@@ -48,11 +48,7 @@ For a list of available integrations, check [Agent Voice Response Integrations](
 
 ## Usage
 
-### Free Version
-In the free version, each call is limited to **1 minute** of interaction. For extended usage, please contact us at [info@agentvoiceresponse.com](mailto:info@agentvoiceresponse.com) to set up your wallet.
-
-### Production Use
-To use AVR Core in production, contact us at [info@agentvoiceresponse.com](mailto:info@agentvoiceresponse.com). We will provide you with a `WALLET_ID`, allowing you to manage credits and usage.
+Each call is limited to **10 minutes** of interaction. For extended usage, please contact us at [info@agentvoiceresponse.com](mailto:info@agentvoiceresponse.com).
 
 ## Contributions
 
