@@ -6,9 +6,9 @@ The **Agent Voice Response (AVR)** [agentvoiceresponse.com](https://www.agentvoi
 
 AVR Core manages real-time voice communication between customers and a Asterisk AudioSocket application and interacts with various AI services:
 
-1. **ASR (Automatic Speech Recognition)**: Transcribes the incoming audio stream from the customer into text (Google Speech to Text)
-2. **LLM (Large Language Model)**: Interprets the text and generates an appropriate response. (OpenAI / Typebot)
-3. **TTS (Text-to-Speech)**: Converts the generated text response back into speech, which is then played to the customer. (Google Text to Speech)
+1. **ASR (Automatic Speech Recognition)**: Transcribes the incoming audio stream from the customer into text 
+2. **LLM (Large Language Model)**: Interprets the text and generates an appropriate response. 
+3. **TTS (Text-to-Speech)**: Converts the generated text response back into speech, which is then played to the customer. 
 
 AVR Core is designed to be flexible, allowing users to integrate any ASR, LLM, and TTS services by interacting via HTTP API Streams. This modularity allows you to develop your own middleware between AVR Core and the services of your choice.
 
@@ -38,17 +38,12 @@ For a list of available integrations, check [Agent Voice Response Integrations](
      - `ASR_URL`: URL of the ASR service (e.g., Google Cloud Speech-to-Text).
      - `LLM_URL`: URL of the LLM service (e.g., OpenAI or Typebot).
      - `TTS_URL`: URL of the TTS service (e.g., Google Cloud Text-to-Speech).
-     - `WALLET_ID`: Your wallet ID for production use
 
 3. **Run Docker Compose**:
    - Navigate to the project directory and run:
      ```bash
      docker-compose up
      ```
-
-## Usage
-
-Each call is limited to **10 minutes** of interaction. For extended usage, please contact us at [info@agentvoiceresponse.com](mailto:info@agentvoiceresponse.com).
 
 ## Contributions
 
