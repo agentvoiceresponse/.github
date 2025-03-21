@@ -35,9 +35,22 @@ For a list of available integrations, check [Agent Voice Response Integrations](
 
 2. **Set Environment Variables**:
    - Configure the following environment variables in your `.env` file:
-     - `ASR_URL`: URL of the ASR service (e.g., Google Cloud Speech-to-Text).
-     - `LLM_URL`: URL of the LLM service (e.g., OpenAI or Typebot).
-     - `TTS_URL`: URL of the TTS service (e.g., Google Cloud Text-to-Speech).
+```bash
+NODE_ENV=production
+APP_VERSION=1.0.0
+PORT=3000
+
+ADMIN_EMAIL=YOUR_EMAIL
+ADMIN_PASSWORD=YOUR_PASSWORD
+
+DATABASE_HOST=127.0.0.1
+DATABASE_PORT=3306
+DATABASE_NAME=avr-app
+DATABASE_USERNAME=avr
+DATABASE_PASSWORD=MYSQL_PASSWORD
+
+DATABASE_ROOT_PASSWORD=MYSQL_ROOT_PASSWORD
+```
 
 3. **Run Docker Compose**:
    - Navigate to the project directory and run:
