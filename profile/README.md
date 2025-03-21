@@ -26,10 +26,13 @@ AVR Core is designed to be flexible, allowing users to integrate any ASR, LLM, a
 
 ### Example Flow:
 
-<video width="100%" controls>
-  <source src="./images/architecture.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div align="center">
+  <a href="https://www.agentvoiceresponse.com/assets/videos/architecture.mp4">
+    <img src="https://www.agentvoiceresponse.com/assets/images/architecture-thumbnail.png" alt="AVR Architecture Video" width="600">
+    <br>
+    <em>Click to watch the AVR architecture video</em>
+  </a>
+</div>
 
 - Asterisk sends the audio stream to the AVR Core.
 - AVR Core forwards the audio to an ASR service for transcription (e.g., `ASR_URL=http://localhost:6001/speech-to-text-stream`).
@@ -87,11 +90,17 @@ Before installing AVR, ensure you have the following components:
 
 Enjoy the Agent Voice Response App experience! After installation, you can access the application through your browser.
 
-![Login Screen](./images/login.png)
-*The secure login interface for the AVR application*
+<div align="center">
+  <img src="https://www.agentvoiceresponse.com/assets/images/login.png" alt="Login Screen" width="600">
+  <br>
+  <em>The secure login interface for the AVR application</em>
+</div>
 
-![Dashboard](./images/dashboard.png)
-*The intuitive dashboard for managing your voice response agents*
+<div align="center">
+  <img src="https://www.agentvoiceresponse.com/assets/images/dashboard.png" alt="Dashboard" width="600">
+  <br>
+  <em>The intuitive dashboard for managing your voice response agents</em>
+</div>
 
 ## Troubleshooting
 
