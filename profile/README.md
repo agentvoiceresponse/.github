@@ -10,7 +10,6 @@ The **Agent Voice Response (AVR)** [agentvoiceresponse.com](https://www.agentvoi
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Troubleshooting](#troubleshooting)
 - [Community](#community)
 - [License](#license)
