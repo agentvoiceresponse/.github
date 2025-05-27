@@ -75,21 +75,6 @@ Before installing AVR, ensure you have the following components:
 2. **Follow the Instructions in the README**
    Inside the cloned repository, follow the setup and configuration steps described in the README.md file to launch your AVR agent with the desired ASR, LLM, and TTS providers.
 
-## Usage
-
-Enjoy the Agent Voice Response App experience! After installation, you can access the application through your browser.
-
-<div align="center">
-  <img src="https://github.com/agentvoiceresponse/.github/blob/main/profile/images/avr-login.png" alt="Login Screen" width="600">
-  <br>
-  <em>The secure login interface for the AVR application</em>
-</div>
-
-<div align="center">
-  <img src="https://github.com/agentvoiceresponse/.github/blob/main/profile/images/avr-dashboard.png" alt="Dashboard" width="600">
-  <br>
-  <em>The intuitive dashboard for managing your voice response agents</em>
-</div>
 
 ## Troubleshooting
 
