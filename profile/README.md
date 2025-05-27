@@ -65,33 +65,15 @@ Before installing AVR, ensure you have the following components:
 
 ## Installation
 
-1. **Clone the AVR Infrastructure**: 
-   - Clone the `avr-infra` repository from [https://github.com/agentvoiceresponse/avr-infra](https://github.com/agentvoiceresponse/avr-infra).
+1. **Clone the AVR Infrastructure**  
+   Clone the `avr-infra` repository from the official GitHub repository:
 
-2. **Set Environment Variables**:
-   - Configure the following environment variables in your `.env` file:
-     ```bash
-     NODE_ENV=production
-     APP_VERSION=1.0.0
-     PORT=3000
-    
-     ADMIN_EMAIL=YOUR_EMAIL
-     ADMIN_PASSWORD=YOUR_PASSWORD
-    
-     DATABASE_HOST=127.0.0.1
-     DATABASE_PORT=3306
-     DATABASE_NAME=avr-app
-     DATABASE_USERNAME=avr
-     DATABASE_PASSWORD=MYSQL_PASSWORD
-     
-     DATABASE_ROOT_PASSWORD=MYSQL_ROOT_PASSWORD
-     ```
+   ```bash
+   git clone https://github.com/agentvoiceresponse/avr-infra.git
+   cd avr-infra
 
-3. **Run Docker Compose**:
-   - Navigate to the project directory and run:
-     ```bash
-     docker-compose up
-     ```
+2. **Follow the Instructions in the README**
+   Inside the cloned repository, follow the setup and configuration steps described in the README.md file to launch your AVR agent with the desired ASR, LLM, and TTS providers.
 
 ## Usage
 
