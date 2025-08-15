@@ -1,6 +1,7 @@
 # Agent Voice Response (AVR)
 
 [![Discord](https://img.shields.io/discord/1347239846632226998?label=Discord&logo=discord)](https://discord.gg/DFTU69Hg74)
+[![Ko-fi](https://img.shields.io/badge/Support%20us%20on-Ko--fi-ff5e5b.svg)](https://ko-fi.com/agentvoiceresponse)
 
 The **Agent Voice Response (AVR)** [agentvoiceresponse.com](https://www.agentvoiceresponse.com/) is an advanced IVR solution that integrates with AI, providing a voicebot interface through Asterisk's AudioSocket application. This architecture allows for the replacement of traditional IVR systems with AI-powered conversational agents.
 
@@ -99,14 +100,20 @@ If you encounter issues during installation or usage:
    - Review the [FAQ](https://agentvoiceresponse.com/#faqs)
 
 
-## Community
+## Support & Community
 
-Join our growing community of developers and users to share ideas, get help, and collaborate on projects:
+*   **GitHub:** [https://github.com/agentvoiceresponse](https://github.com/agentvoiceresponse) - Report issues, contribute code.
+*   **Discord:** [https://discord.gg/DFTU69Hg74](https://discord.gg/DFTU69Hg74) - Join the community discussion.
+*   **Docker Hub:** [https://hub.docker.com/u/agentvoiceresponse](https://hub.docker.com/u/agentvoiceresponse) - Find Docker images.
+*   **NPM:** [https://www.npmjs.com/~agentvoiceresponse](https://www.npmjs.com/~agentvoiceresponse) - Browse our packages.
+*   **Wiki:** [https://wiki.agentvoiceresponse.com/en/home](https://wiki.agentvoiceresponse.com/en/home) - Project documentation and guides.
+*   **Website:** [https://www.agentvoiceresponse.com](https://www.agentvoiceresponse.com)
 
-- [Discord Server](https://discord.gg/MUd3y7eGVF) - Connect with other AVR users and the development team
-- [Documentation Wiki](https://wiki.agentvoiceresponse.com) - Comprehensive guides and tutorials
-- [Website](https://www.agentvoiceresponse.com) - Latest updates and feature announcements
+## Support AVR
 
+AVR is free and open-source. If you find it valuable, consider supporting its development:
+
+<a href="https://ko-fi.com/agentvoiceresponse" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support us on Ko-fi"></a>
 
 ## License
 
