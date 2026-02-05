@@ -353,22 +353,19 @@ Join our growing community of developers, businesses, and AI enthusiasts buildin
 
 ---
 
-## 💖 Support AVR Development
+## 💖 Support AVR
 
-AVR is **100% free and open-source** for both personal and commercial use. If you find AVR valuable for your projects or business, consider supporting its continued development:
+AVR is 100% free and open-source for both personal and commercial use.
+
+If you find AVR valuable for your projects or business and wish to express personal appreciation, you may choose to make a voluntary donation. Donations are entirely optional and do not provide access to features, services, priority, or special benefits.
+
+AVR remains fully available to everyone regardless of donations.
 
 <div align="center">
 
 <a href="https://ko-fi.com/agentvoiceresponse" target="_blank">
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support us on Ko-fi" height="40">
 </a>
-
-**Your support helps us:**
-- 🚀 Maintain and improve the core platform
-- 🔧 Add new AI provider integrations  
-- 📚 Create better documentation and tutorials
-- 🐛 Fix bugs and add requested features
-- 🌍 Make AI voice technology accessible to everyone
 
 </div>
 
